@@ -1,0 +1,19 @@
+{
+  "name": "demo-video-skill",
+  "description": "Narrated product-demo videos from any website: Playwright capture, measured-sync narration, ducked music, b-roll bookends.",
+  "owner": {
+    "name": "Team Auresta",
+    "url": "https://github.com/teamauresta"
+  },
+  "plugins": [
+    {
+      "name": "demo-video",
+      "source": "./",
+      "description": "End-to-end pipeline for narrated product-demo videos of any website \u2014 Playwright screen recording with an animated cursor and beat marks, neural TTS narration, measured-sync scheduling with a margin audit that refuses to render drift, ducked music bed, b-roll bookends, broadcast loudness.",
+      "version": "1.0.3",
+      "author": {
+        "name": "Team Auresta"
+      }
+    }
+  ]
+}

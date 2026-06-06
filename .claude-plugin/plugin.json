@@ -1,0 +1,22 @@
+{
+  "name": "demo-video",
+  "displayName": "Demo Video",
+  "description": "End-to-end pipeline for narrated product-demo videos of any website \u2014 Playwright screen recording with an animated cursor and beat marks, neural TTS narration, measured-sync scheduling with a margin audit that refuses to render drift, ducked music bed, b-roll bookends, broadcast loudness.",
+  "version": "1.0.3",
+  "author": {
+    "name": "Team Auresta",
+    "url": "https://github.com/teamauresta"
+  },
+  "homepage": "https://github.com/teamauresta/demo-video-skill",
+  "repository": "https://github.com/teamauresta/demo-video-skill",
+  "license": "MIT",
+  "keywords": [
+    "video",
+    "demo",
+    "screen-recording",
+    "narration",
+    "tts",
+    "ffmpeg",
+    "playwright"
+  ]
+}
